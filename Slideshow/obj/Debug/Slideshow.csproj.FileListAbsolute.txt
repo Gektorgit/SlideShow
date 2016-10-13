@@ -1,0 +1,10 @@
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Form_SlideShow.resources
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+c:\users\наташа\documents\visual studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.pdb
+C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.FullShow.resources
+C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
